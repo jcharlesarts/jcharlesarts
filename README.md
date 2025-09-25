@@ -1,6 +1,6 @@
 - Hi, I’m @jcharlesarts
 - I’m an artist and social studies teacher.
-- I’m interested in building  educaitonal games for my students to experience history in a unique way. 
+- I’m interested in building  educational games for my students to experience history in a unique way. 
 - I'm not a skilled dev but I'm using what I've got to make the most of my slipshod ideas.
 - How to reach me: via github or instagram.
 - Would love to collaborate to build better systems and continue learning.
